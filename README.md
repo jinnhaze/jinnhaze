@@ -23,5 +23,5 @@ I'm continuously learning, improving my skills, and aiming to become a strong an
 
 ### 📫 Connect with me:
 
-* GitHub: https://github.com/[jinnhaze](https://github.com/jinnhaze)
+* GitHub: https://github.com/[jinnhaze]
 * LinkedIn: [www.linkedin.com/in/kashinadh-km](http://www.linkedin.com/in/kashinadh-km)
